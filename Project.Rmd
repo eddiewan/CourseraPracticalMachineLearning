@@ -3,8 +3,9 @@ title: "Practical Machine Learning"
 author: "Edwin Wanner"
 date: "30 oktober 2018"
 output:
-  html_document: default
+  md_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
